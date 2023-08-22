@@ -1,2 +1,2 @@
 # bubble-game
-Bubble game using HTML ,CSS and JAVASCRIPT
+Bubble game using Html ,CSS and Javascript
